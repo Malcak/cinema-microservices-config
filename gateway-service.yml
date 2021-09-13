@@ -2,7 +2,7 @@ server:
   port: 4011
 spring:
   application:
-    name: booking-service
+    name: gateway-service
   cloud:
     gateway:
       discovery:
